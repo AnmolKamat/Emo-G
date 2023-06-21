@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emo-G/static/css/main.d279b8ec.css",
+    "main.js": "/Emo-G/static/js/main.1c37202f.js",
+    "static/js/787.5017f484.chunk.js": "/Emo-G/static/js/787.5017f484.chunk.js",
+    "index.html": "/Emo-G/index.html",
+    "main.d279b8ec.css.map": "/Emo-G/static/css/main.d279b8ec.css.map",
+    "main.1c37202f.js.map": "/Emo-G/static/js/main.1c37202f.js.map",
+    "787.5017f484.chunk.js.map": "/Emo-G/static/js/787.5017f484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d279b8ec.css",
+    "static/js/main.1c37202f.js"
+  ]
+}
